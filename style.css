@@ -1,0 +1,78 @@
+html {
+    height: 100%;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+header {
+    height: 203px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0);
+    height: 40px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+main {
+    height: 400px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(172, 255, 47, 0);
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+ body {
+    background-color: #2f3035;
+    background-image: url(images/Buddha.webp);
+    background-size: cover;
+ }
+h1 { 
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+    
+p {
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
